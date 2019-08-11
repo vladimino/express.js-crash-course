@@ -1,1 +1,1 @@
-# express.js-crash-couse
+# express.js-crash-course
